@@ -14,6 +14,13 @@ The purpose of this project is to explore factors that influence employee turnov
 ## Files in the Repository
 Udacity-Project.ipynb: Jupyter Notebook containing all the code and detailed analysis. <br />
 HR-Employee-Attrition.csv: The dataset used in the analysis, sourced from Kaggle. <br />
+
+Requirements.txt: the libraries, you can install the librarries by running this command:
+
+```
+pip install -r requirements.txt
+```
+
 ## Summary of Results
 The analysis revealed several key insights into employee turnover:
 
@@ -23,5 +30,7 @@ The analysis revealed several key insights into employee turnover:
 
 
 **Key Factors of Turnover**: Factors such as job satisfaction, monthly income, and years since the last promotion were significant predictors of attrition. Addressing these can help reduce turnover rates.
+
+Visit my medium [Blog](https://medium.com/@noofa.binsaad/enhancing-employee-retention-through-data-90af29d0006b) for more information.
 ## Acknowledgements
 This project utilizes the IBM HR Analytics Employee Attrition & Performance dataset available on Kaggle. The dataset provides a fictional sample of employee data which is excellent for exploring HR analytics.
